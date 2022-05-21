@@ -327,6 +327,11 @@ footer {
     .area1-content {
         padding: 40px;
     }
+    
+    
+    .area1-img1 {
+        height: 200px;
+    }
 
     .area2 {
         grid-template-columns: 1fr;
